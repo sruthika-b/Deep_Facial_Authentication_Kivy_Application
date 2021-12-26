@@ -5,7 +5,7 @@ This project uses Siamese Networks model to recognise and Authenticate user's fa
 <html>
 <body>
   
-  <iframe src="https://drive.google.com/file/d/15od8GQmcE1L7ZRUWQ53kmGu__YsxEgno/view?usp=sharing/preview" ></iframe>
+  <iframe src="https://drive.google.com/file/d/15od8GQmcE1L7ZRUWQ53kmGu__YsxEgno/view?usp=sharing" ></iframe>
   
   <iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
